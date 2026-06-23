@@ -22,3 +22,7 @@ Cada vez que cambies el Apps Script, creá una nueva versión de la implementaci
 
 
 NOVEDAD: En Google Sheets dentro de la app ahora aparece el botón “Copiar código GS”, que copia al portapapeles el código completo de Apps Script.
+
+
+ACTUALIZACIÓN CLAUDE V9
+La app y el botón “Copiar código GS” usan ahora el puente V9 de Claude: hojas Movimientos y Config, columnas visibles y respaldo JSON por movimiento.

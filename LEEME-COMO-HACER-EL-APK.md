@@ -70,3 +70,8 @@ reinstales, al abrir la app recupera los datos de esa carpeta.
 - Hecho con **Capacitor 6** + plugin **Filesystem**.
 - El APK es de tipo *debug* (se instala directo, sin Play Store). Funciona igual
   que uno normal; solo no está firmado para publicar en la tienda.
+
+
+## Minijuego por sacudida
+
+Con **Sacudir el teléfono** activado en Configuración, una sacudida abre **Mosca 8 Bit**. El juego usa la inclinación del celular para mover la mosca y reproduce el sonido incluido cuando el matamoscas la aplasta. Los archivos están en `www/minijuego`.
