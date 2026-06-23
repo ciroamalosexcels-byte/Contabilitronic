@@ -1,5 +1,10 @@
 {
   "appId": "com.bois.micontabilidad",
   "appName": "Mi Contabilidad",
-  "webDir": "www"
+  "webDir": "www",
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
 }
